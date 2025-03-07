@@ -11,7 +11,7 @@
     --currentVersion: "WizardUI v" var(--version);
     /* MAIN VARIABLES */
     --AppName: "DISCORD";
-    --Watermark: "WizardUI";
+    --Watermark: "twizzy";
     --font: 'Inter', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
     --logo: url(https://goldenlys.github.io/WizardUI/images/home.png);
